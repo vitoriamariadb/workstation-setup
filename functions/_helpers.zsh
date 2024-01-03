@@ -115,3 +115,4 @@ __preparar_ambiente_python() {
     __verificar_dependencias_python "$PYTHON_EXEC" "pandas" "openpyxl" "tabulate" "pyarrow" >&2 || return 1
     echo "$PYTHON_EXEC"
 }
+
