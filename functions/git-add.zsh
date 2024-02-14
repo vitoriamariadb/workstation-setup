@@ -28,3 +28,4 @@ ga() {
         git add "${all_staged[@]}"
     fi
 }
+
