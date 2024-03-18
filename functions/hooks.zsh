@@ -45,3 +45,4 @@ aplicar_hooks_globais() {
     __ok "Hooks aplicados: pre-commit (sanitizer) + pre-push (contexto git)"
     echo ""
 }
+
