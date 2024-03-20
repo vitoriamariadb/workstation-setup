@@ -135,3 +135,4 @@ limpar_pastas_vazias() {
 }
 
 # "Perfeicao nao e quando nao ha mais nada a adicionar, mas quando nao ha mais nada a remover." -- Saint-Exupery
+
