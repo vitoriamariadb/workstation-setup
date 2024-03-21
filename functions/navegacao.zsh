@@ -23,3 +23,4 @@ ir() {
         echo -e "\n  ${D_PURPLE}$(basename "$destino")${D_RESET} ${D_COMMENT}::${D_RESET} ${D_CYAN}${branch}${D_RESET}\n"
     fi
 }
+
