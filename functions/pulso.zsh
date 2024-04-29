@@ -138,3 +138,4 @@ purgar() {
     __ok "Limpeza concluida."
     echo ""
 }
+
