@@ -44,3 +44,4 @@ __conectar_rsync() {
 }
 
 # "Nenhum homem e uma ilha, inteiramente isolado em si mesmo." -- John Donne
+
