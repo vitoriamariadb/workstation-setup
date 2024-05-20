@@ -94,3 +94,4 @@ reparo_pop() {
 }
 
 # "Quem controla a infraestrutura controla o destino." -- Norbert Wiener
+
