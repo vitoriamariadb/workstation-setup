@@ -362,3 +362,4 @@ alias sync_quick='sincronizar_controle_de_bordo_full --skip-dev --skip-git'
 alias sync_dev='sincronizar_controle_de_bordo_full --skip-inbox'
 
 # "A sincronia perfeita e invisivel." -- Heraclito
+
