@@ -316,3 +316,4 @@ alias limpar_vault='sincronizar_controle_de_bordo --cleanup --check-size'
 alias sync_docs='sincronizar_controle_de_bordo --docs-only --auto'
 
 # "A ordem e o prazer da razao." -- Paul Claudel
+
