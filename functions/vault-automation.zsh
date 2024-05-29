@@ -210,3 +210,4 @@ alias vpess='novo_pessoal'
 alias vdaily='nova_daily'
 
 # "A organizacao e a mais alta forma de disciplina intelectual." -- Jose Ortega y Gasset
+
