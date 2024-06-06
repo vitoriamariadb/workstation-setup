@@ -307,3 +307,4 @@ alias timestamp='date +"%Y-%m-%d_%Hh%M"'
 alias path='echo $PATH | tr ":" "\n" | sort'
 
 # "Simplicidade e a sofisticacao suprema." -- Leonardo da Vinci
+
