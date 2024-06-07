@@ -83,3 +83,4 @@ if command -v gh &>/dev/null; then
     # Completions
     eval "$(gh completion -s zsh)"
 fi
+
