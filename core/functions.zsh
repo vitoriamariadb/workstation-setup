@@ -13,3 +13,4 @@ for f in "$FUNC_DIR"/*.zsh; do
     [[ "$(basename "$f")" == "_helpers.zsh" ]] && continue
     source "$f"
 done
+
