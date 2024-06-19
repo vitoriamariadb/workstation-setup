@@ -133,3 +133,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
 # "O conhecimento e a unica coisa que ninguem pode tirar de voce." -- B.B. King
+
