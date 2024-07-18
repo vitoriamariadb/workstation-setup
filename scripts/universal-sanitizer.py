@@ -227,3 +227,4 @@ if __name__ == "__main__":
     sys.exit(main())
 
 # "A verdade e encontrada pelo homem, mas pertence a todos." -- Voltaire
+
