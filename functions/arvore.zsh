@@ -44,4 +44,3 @@ tree() {
 }
 
 # "Quem ve a parte nunca pode julgar o todo." -- Baruch Spinoza
-
