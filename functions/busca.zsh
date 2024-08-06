@@ -33,4 +33,3 @@ buscar() {
         echo -e "  ${D_COMMENT}Nenhum resultado.${D_RESET}"
     fi
 }
-
