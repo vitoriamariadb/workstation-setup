@@ -117,4 +117,3 @@ conjurar() {
         eval "$comando $args_input"
     fi
 }
-
