@@ -544,4 +544,3 @@ vcheck_file() {
 }
 
 # "O habito e o melhor dos servos ou o pior dos senhores." -- Nathaniel Emmons
-
