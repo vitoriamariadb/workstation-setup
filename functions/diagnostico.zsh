@@ -298,4 +298,3 @@ reconstruir_diagnostico() {
     __ok "Reconstrucao concluida."
     echo ""
 }
-
