@@ -39,4 +39,3 @@ extrair() {
             ;;
     esac
 }
-
