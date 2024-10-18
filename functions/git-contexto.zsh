@@ -176,4 +176,3 @@ sincronizar_todos_os_repositorios() {
     __ok "Todos os repositorios processados."
     echo ""
 }
-
