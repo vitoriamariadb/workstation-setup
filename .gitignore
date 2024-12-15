@@ -1,0 +1,39 @@
+# Caches
+__pycache__/
+*.py[cod]
+node_modules/
+venv/
+.venv/
+
+# Logs e dados
+logs/
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
+.git-credentials
+.zsh_secrets
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# ZSH
+.zsh_history
+.zcompdump*
+.oh-my-zsh/
+
+# Credenciais
+*.json
+!templates/*.json.example
+
+# Dados
+profiles.yml
+.aider.tags.cache.v4/
