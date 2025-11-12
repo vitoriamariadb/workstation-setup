@@ -305,3 +305,5 @@ alias timestamp='date +"%Y-%m-%d_%Hh%M"'
 # Proposito: Listar PATH de forma legivel
 # Uso: path
 alias path='echo $PATH | tr ":" "\n" | sort'
+
+# "Simplicidade e a sofisticacao suprema." -- Leonardo da Vinci
