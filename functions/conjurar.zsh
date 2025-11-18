@@ -2,6 +2,7 @@
 
 # Proposito: Menu FZF interativo de todos os aliases e funcoes disponiveis
 # Uso: conjurar
+# Dependencias: fzf, python3
 conjurar() {
     __verificar_dependencias "fzf" "python3" || return 1
 
