@@ -1,5 +1,6 @@
 #!/bin/zsh
 
+# Padrao de indentacao: 2 espacos
 # Proposito: Gerar dossie completo de um projeto (ambiente, git, arvore, conteudo)
 # Uso: diagnostico_projeto <profundidade>
 diagnostico_projeto() {
