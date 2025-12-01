@@ -188,3 +188,5 @@ santuario() {
         levitar .
     fi
 }
+
+# "A ordem e a primeira lei do ceu." -- Alexander Pope
