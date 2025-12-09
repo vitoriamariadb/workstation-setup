@@ -1,5 +1,6 @@
 #!/bin/zsh
 
+# Proposito: Gerenciar perfis git por diretorio de trabalho
 __carregar_perfis_git() {
     local config_file="${ZDOTDIR:-$HOME/.config/zsh}/templates/git-profiles.conf"
     if [[ ! -f "$config_file" ]]; then
