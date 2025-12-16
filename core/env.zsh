@@ -1,3 +1,4 @@
+#!/bin/zsh
 # --- 1. TEMA E OH MY ZSH ---
 ZSH_THEME="agnoster"
 export ZSH_COMPDUMP="$ZDOTDIR/.zcompdump"
