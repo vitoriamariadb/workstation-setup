@@ -1,5 +1,6 @@
 #!/bin/zsh
 # Funcoes de automacao do Controle de Bordo
+# Dependencias: fzf, rg
 
 # Diretorio do vault
 VAULT_DIR="${BORDO_DIR:-$HOME/Controle de Bordo}"
