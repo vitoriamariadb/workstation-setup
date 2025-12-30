@@ -37,3 +37,6 @@ Thumbs.db
 # Dados
 profiles.yml
 .aider.tags.cache.v4/
+
+# Backups
+*.bak
