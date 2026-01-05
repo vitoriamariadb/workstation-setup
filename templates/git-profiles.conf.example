@@ -1,0 +1,16 @@
+# Perfis de identidade Git
+# Usado por git-contexto.zsh para alternar identidades automaticamente
+#
+# Formato: nome|email|chave_ssh|host_alias
+# A chave SSH e o host alias sao opcionais
+
+# Perfil pessoal
+pessoal|seu-email@gmail.com|~/.ssh/id_ed25519|github.com
+
+# Perfil trabalho
+trabalho|seu-email@empresa.com|~/.ssh/id_ed25519_work|github.com-work
+
+# Perfil open-source
+opensource|seu-email@protonmail.com|~/.ssh/id_ed25519_oss|github.com-oss
+
+# "A identidade e o que voce faz quando ninguem esta olhando." -- Anonimo
