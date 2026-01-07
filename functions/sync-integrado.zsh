@@ -1,6 +1,7 @@
 #!/bin/zsh
 # Sistema Integrado de Sincronizacao do Controle de Bordo
 # Combina sync de repos, processamento de inbox, automacao e health checks
+# Dependencias: git, rsync
 
 VAULT_DIR="${BORDO_DIR:-$HOME/Controle de Bordo}"
 DEV_DIR="${DEV_DIR:-$HOME/Desenvolvimento}"
