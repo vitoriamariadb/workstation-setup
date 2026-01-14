@@ -1,6 +1,7 @@
 #!/bin/zsh
 # Funcoes integradas do Controle de Bordo v2.0
 # Sistema completo de automacao, sync e QOL
+# Dependencias: fzf, rg, bat
 
 # Configuracoes
 VAULT_DIR="${BORDO_DIR:-$HOME/Controle de Bordo}"
