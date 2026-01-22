@@ -1,3 +1,4 @@
+"""Modulo de analise e transformacao de dados tabulares."""
 import pandas as pd
 import json
 import sys
