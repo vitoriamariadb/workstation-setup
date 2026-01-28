@@ -1,5 +1,6 @@
 #!/bin/zsh
 
+# Proposito: Funcoes de conexao remota via rsync e SSH
 __conectar_rsync() {
     local usuario="$1"
     local host="$2"
