@@ -1,5 +1,6 @@
 #!/bin/zsh
 
+# Proposito: Carrega todas as funcoes do diretorio functions/
 local FUNC_DIR="$ZDOTDIR/functions"
 
 if [ ! -d "$FUNC_DIR" ]; then
