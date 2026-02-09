@@ -2,6 +2,7 @@
 
 # Proposito: Buscar arquivos por padrao de nome em um diretorio
 # Uso: buscar <padrao> <pasta>
+# Dependencias: find
 buscar() {
     if [ -z "$1" ] || [ -z "$2" ]; then
         echo -e "  ${D_COMMENT}Uso: buscar <padrao> <pasta>${D_RESET}"
