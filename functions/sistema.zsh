@@ -92,3 +92,5 @@ reparo_pop() {
         echo "  Reiniciando em 5s..."; sleep 5; sudo reboot
     fi
 }
+
+# "Quem controla a infraestrutura controla o destino." -- Norbert Wiener
