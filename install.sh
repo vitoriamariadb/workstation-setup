@@ -1,6 +1,7 @@
 #!/bin/bash
 # install.sh - Instala o workstation-setup criando symlinks
 # Uso: bash install.sh [--dry-run] [--force]
+# Dependencias: ln, mkdir, bash >= 4.0
 
 set -euo pipefail
 
